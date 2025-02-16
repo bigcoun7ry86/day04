@@ -11,10 +11,10 @@
   top: -40px;
 }
 
-.img-size {
-  min-height: 20dvh;
-}
+
 
 .maps-backround {
   background-image: url(https://images.unsplash.com/photo-1586449480537-3a22cf98b04c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc0fHxtYXBzfGVufDB8fDB8fHww);
+  background-size: cover;
+  height: 30dvh;
 }
